@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,I am Ayush 👋
 [![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=Aysuhgarg)](https://github.com/Aysuhgarg/github-readme-stats)
 <!--
 **Aysuhgarg/Aysuhgarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
