@@ -1,5 +1,10 @@
 ### Hi there,I am Ayush 👋
 [![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=Aysuhgarg)](https://github.com/Aysuhgarg/github-readme-stats)
+
+<a href="https://github.com/Aysuhgarg/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aysuhgarg"/>
+</a>
 <!--
 **Aysuhgarg/Aysuhgarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
